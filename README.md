@@ -27,7 +27,6 @@ The full build process is available on the **AmithLabs YouTube channel**.
 * OLED Live Angle Display
 * X-Axis Tilt Detection
 * Digital Spirit Level Function
-* Simple and Compact Design
 * Portable Smart Tool Project
 * Beginner Friendly Electronics Project
 * Professional DIY Measurement Tool
